@@ -83,6 +83,10 @@ body{
 	padding-bottom: 2px;
 	color: white;
 }
+.SASS{
+	width: 70%;
+	background-color: white;
+}
 .html{
 	width: 90%;
 	background-color: white;

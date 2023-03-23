@@ -171,3 +171,91 @@ h2{
 .iconsss a i:hover{
 	font-size: 25px;
 }
+
+
+@media screen and (max-width:749px) {
+	.main{
+		background-color: white;
+		height: auto;
+		width: 600px;
+		position: absolute;
+		transform: translate(-50%, -50%);
+		left: 50%;
+		top: 60%;
+	}
+	.left{
+		background-color: #fbb03b;
+		width: 190px;
+		height: 100%;
+		float: left;
+	}
+	.right{
+		width: 410px;
+		float: left;
+	}
+	.profile-img{
+		height: 100px;
+		width: 100px;
+		margin-left: 120px;
+	}
+	.heading::after{
+		left: 181px;
+	}
+	.heading p{
+		font-size: 12px;
+	}
+	.p1{
+		font-size: 6px;
+	}
+	.icons1{
+		font-size: 9px!important;
+	}
+	.name-div{
+		padding: 56px 0px 30px 25px;
+	}
+	.name-div h1{
+		font-size: 25px;
+	}
+	.box-2{
+		margin-top: 20px;
+	}
+	.p2{
+		font-size: 8px;
+		font-weight: 300;
+		letter-spacing: 1px;
+		word-spacing: 2px;
+		line-height: 18px;
+		margin-top: 5px;
+	}
+	h2{
+		font-size: 12px;
+		margin-bottom: 15px;
+	}
+	.icons3{
+		vertical-align: bottom;
+		font-size: 17px!important;
+		color: #ff9b00;
+	}
+	.p3{
+		font-size: 9px;
+		margin-top: 8px;
+	}
+	.p3 span{
+		color: #ff9b00; padding-left: 17px;
+	}
+	.iconsss{
+		width: 120px;
+		height: 30px;
+		padding-top: 8px;
+	}
+	.iconsss a{
+		height: 30px;
+	}
+	
+	.iconsss a i{
+		font-size: 15px;
+	}
+	.iconsss a i:hover{
+		font-size: 20px;
+	}
+}

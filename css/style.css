@@ -269,7 +269,7 @@ h2{
 		letter-spacing: 2px;
 	}
 	.main{
-		width: 400px;
+		width: 350px;
 		top: 110%;
 	}
 	.left{
@@ -282,7 +282,7 @@ h2{
 	.profile-img{
 		height: 100px;
 		width: 100px;
-		margin-left: 150px;
+		margin-left: 120px;
 	}
 	.heading::after{
 		left: 98%;

@@ -285,8 +285,8 @@ h2{
 		margin-left: 120px;
 	}
 	.heading::after{
-		left: 98%;
-		top: 22px;
+		left: 97%;
+		top: 28px;
 	}
 	.heading p{
 		font-size: 18px;

@@ -264,13 +264,13 @@ h2{
 @media screen and (max-width:599px) {
 	body{
 		background-image: linear-gradient(#636162, #b1afaf);
-		height: 222vh;
+		height: 242vh;
 		font-weight: bold;
 		letter-spacing: 2px;
 	}
 	.main{
 		width: 350px;
-		top: 110%;
+		top: 130%;
 	}
 	.left{
 		background-color: #fbb03b;

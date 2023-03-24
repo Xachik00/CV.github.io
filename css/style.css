@@ -259,3 +259,71 @@ h2{
 		font-size: 20px;
 	}
 }
+
+
+@media screen and (max-width:599px) {
+	body{
+		background-image: linear-gradient(#636162, #b1afaf);
+		height: 222vh;
+		font-weight: bold;
+		letter-spacing: 2px;
+	}
+	.main{
+		width: 400px;
+		top: 110%;
+	}
+	.left{
+		background-color: #fbb03b;
+		width: 96%;
+	}
+	.right{
+		width: 100%;
+	}
+	.profile-img{
+		height: 100px;
+		width: 100px;
+		margin-left: 150px;
+	}
+	.heading::after{
+		left: 98%;
+		top: 22px;
+	}
+	.heading p{
+		font-size: 18px;
+	}
+	.p1{
+		font-size: 12px;
+	}
+	.icons1{
+		font-size: 22px!important;
+	}
+	.name-div{
+		padding: 56px 0px 30px 25px;
+	}
+	.name-div h1{
+		font-size: 28px;
+	}
+	.p2{
+		font-size: 12px;
+	}
+	h2{
+		font-size: 18px;
+	}
+	.icons3{
+		font-size: 22px!important;
+	}
+	.p3{
+		font-size: 13px;
+	}
+	.iconsss{
+		width: 220px;
+		padding-top: 12px;
+	}
+	
+	.iconsss a i{
+		font-size: 22px;
+	}
+	.iconsss a i:hover{
+		font-size: 25px;
+	}
+}
